@@ -1,0 +1,15 @@
+h3{
+    background-color: rgb(204, 204, 204);
+    text-transform: uppercase;
+    text-align:center;
+    padding: 10px;
+}
+
+.productos{
+    border: 1px gray solid;
+    padding: 10px;
+}
+
+.producto{
+    cursor: pointer;
+}

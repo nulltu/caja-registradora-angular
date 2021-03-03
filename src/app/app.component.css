@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    background-color: rgb(206, 170, 170);
+    padding: 5px;
+}
+.container{
+    width: 70%;
+    margin: 30px auto 0 auto;
+    display: flex;
+}
+
+.izquierda{
+    width: 70%;
+    padding: 10px;
+}
+
+.derecha{
+    width: 35%;
+    padding: 10px;
+}
